@@ -412,5 +412,6 @@ Book Hotel --> <include> Make Payment: Because booking a hotel will always invol
 
 #Types of Requirements
 
-alx-booking-uc.png :![alx-booking-uc png](https://github.com/user-attachments/assets/3964112a-2183-4309-b08c-38b68c3d51bd)
+alx-booking-uc.png 
+![alx-booking-uc png](https://github.com/user-attachments/assets/2ff1ed5f-fada-4f15-97ab-8a8e08ff8aac)
 
