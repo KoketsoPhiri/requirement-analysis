@@ -411,3 +411,5 @@ Book Hotel --> <include> Make Payment: Because booking a hotel will always invol
 <extend> relationship: Use this when one use case optionally extends the functionality of another. (Less common in initial high-level diagrams, but possible, e.g., "Cancel Booking" might extend "View My Bookings"). For this initial diagram, we can keep it simpler without extend unless specifically needed.
 
 #Types of Requirements
+
+alx-booking-uc.png
