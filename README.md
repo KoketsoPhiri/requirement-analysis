@@ -288,19 +288,10 @@ The system must efficiently manage increasing data size and query times by archi
 
 
 
-
-
-Describe what Use Case Diagrams are and their benefits.
-
-Using tools like Draw.io or similar, design a use case diagram for the booking system, Listing actors and use cases.
-
-Export the diagram as png file alx-booking-uc.png and link the image in the README.md file
-
-
-
-
 Show thinking
 Okay, let's break down Use Case Diagrams and then outline the design for your booking system.
+
+![alx-booking-uc png](https://github.com/user-attachments/assets/6af0505c-ec0b-4ca0-ad09-b180a1c5f71a)
 
 What are Use Case Diagrams?
 Definition:
@@ -412,5 +403,5 @@ Book Hotel --> <include> Make Payment: Because booking a hotel will always invol
 
 #Types of Requirements
 
-![alx-booking-uc png](https://github.com/user-attachments/assets/6af0505c-ec0b-4ca0-ad09-b180a1c5f71a)
+
 
