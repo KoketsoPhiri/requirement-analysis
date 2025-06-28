@@ -1,4 +1,4 @@
-#Requirement Analysis in Software Development
+# Requirement Analysis in Software Development
 
 Understanding Requirement Analysis in the Software Development Lifecycle (SDLC)
 Requirement Analysis is a crucial phase in the Software Development Lifecycle (SDLC) that involves defining, documenting, and managing the needs and expectations for a new or modified software system. It acts as a bridge between the initial high-level ideas and the detailed design and implementation of the software.
@@ -47,8 +47,8 @@ Mitigates Risks: Unclear or incomplete requirements are a major source of projec
 
 In essence, robust Requirement Analysis lays the groundwork for a successful software project, ensuring that the right product is built, on time, within budget, and to the satisfaction of its users
 
-#What is Requirement Analysis?
-#Why is Requirement Analysis Important?
+# What is Requirement Analysis?
+# Why is Requirement Analysis Important?
 
 Understanding Requirement Analysis in the Software Development Lifecycle (SDLC)
 Requirement Analysis is a crucial phase in the Software Development Lifecycle (SDLC) that involves defining, documenting, and managing the needs and expectations for a new or modified software system. It acts as a bridge between the initial high-level ideas and the detailed design and implementation of the software.
@@ -181,7 +181,7 @@ Traceability Matrix: Ensuring that each requirement can be traced to its source 
 
 B
 
-Functional Requirements
+# Functional Requirements
 Definition: Functional requirements (FRs) define what the system must do. They describe the specific behaviors or functions of the system, how it interacts with users, and the services it provides. These are typically expressed as actions the system performs to meet user needs or business rules.
 
 Examples from the Case Study:
@@ -290,7 +290,7 @@ The system must efficiently manage increasing data size and query times by archi
 
 Show thinking
 Okay, let's break down Use Case Diagrams and then outline the design for your booking system.
-
+Missing: alx-booking-uc.png
 ![alx-booking-uc png](https://github.com/user-attachments/assets/6af0505c-ec0b-4ca0-ad09-b180a1c5f71a)
 
 What are Use Case Diagrams?
